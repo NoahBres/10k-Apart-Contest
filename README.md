@@ -9,5 +9,5 @@ Screenshots
 ![Screenshot 3](http://i.imgur.com/wId66o9.png)
 ![Screenshot 4](http://i.imgur.com/YGKvDzy.png)
 
-Want to see more?
-Visit [my website](https://mrnoahz.github.io). 
+Want to see it for yourself?
+Visit [the website](https://mrnoahz.github.io/10k-Apart-Contest/). 
